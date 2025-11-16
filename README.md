@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hello stranger👋
 
 <h1> About Me🥳</h1>
 
 <section>
+  <h2> Thing I'm working on:</h2>
 <ul>
 
 
