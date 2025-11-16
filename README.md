@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-
--I'm curently learing how to use HTML in order to have a solid base for web development👩‍💻
-
+<h1> About ME</h1>
 
 
-
-
-
--I'm also taking the CS50 course
+<ul>
+<li>I'm curently learing how to use HTML in order to have a solid base for web development👩‍💻</li>
+<li>I'm also taking the CS50 course!</li>
+</ul>
 
 
 
