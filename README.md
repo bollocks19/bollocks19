@@ -3,7 +3,7 @@
 <h1> About Me🥳</h1>
 
 <section>
-  <h2> Thing I'm working on:</h2>
+  <h2> Thing I'm working on</h2>
 <ul>
 
 
@@ -22,6 +22,7 @@
 
 
 <section>
+  <h3> Personal Goals </h3>
 <strong>I would really like to gain as much knowledge as possible before college and build a GitHub page, storing every piece of code I write😎</strong>
 </section>
 
