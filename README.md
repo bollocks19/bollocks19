@@ -1,10 +1,16 @@
 ## Hi there 👋
 
-<h1> About ME</h1>
+<h1> About Me🥳</h1>
 
 <section>
 <ul>
+
+
+  
 <li>I'm curently learing how to use <strong> HTML </strong> in order to have a solid base for web development👩‍💻</li>
+
+
+  
 <li>I'm also taking the CS50 <em>course!</em>🐥</li>
 </ul>
 </section>
