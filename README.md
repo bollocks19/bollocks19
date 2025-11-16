@@ -16,7 +16,7 @@
 
 
 
-I would really like to gain as much knowledge as possible before college and build a GitHub page, storing every piece of code I write😎
+<strong>I would really like to gain as much knowledge as possible before college and build a GitHub page, storing every piece of code I write😎</strong>
 
 
 
