@@ -22,7 +22,7 @@
 
 
 <section>
-  <h3> Personal Goals </h3>
+  <h2> Personal Goals </h2>
 <strong>I would really like to gain as much knowledge as possible before college and build a GitHub page, storing every piece of code I write😎</strong>
 </section>
 
